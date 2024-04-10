@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AnouarDahdah
-- 👀 I’m interested in Embedded Systems and AI applications
-- 🌱 I’m currently learning Signal processing
-- 💞️ I’m looking to collaborate on ...
+Hello! I'm Anouar Dahdah, a PhD student at SISSA, and In this README file, I'll provide a brief overview of my research interests 
+Research Interests:
+My research interests lie in the following areas:
+Data Processing
+Computational Fluid Dynamics, automotive
+Reduced Order Methods
 - 📫 How to reach me https://www.linkedin.com/in/anouardahdah/
 
-<!---
-AnouarDahdah/AnouarDahdah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
